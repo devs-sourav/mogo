@@ -467,7 +467,8 @@ a {
 
 .team_container {
     margin-top: 73px;
-    margin-left: 10px;
+    margin-left: 10px; 
+	margin-right:10px;
 }
 
 .team_overlay {
