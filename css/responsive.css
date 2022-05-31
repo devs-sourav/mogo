@@ -1,0 +1,669 @@
+
+@media(min-width:992px) and (max-width:1199.99px){
+    .banner_text .btn a {
+        font-size: 20px;
+    }
+    .tit {
+        scale: 1;
+    }
+    .banner_text h2 {
+        font-size: 60px;
+        margin-bottom: 10px;
+    }
+    .banner_text_cont {
+        padding-top: 0;
+    }
+
+    .banner_text h1 {
+        font-size: 100px;
+    }
+
+    .banner_text h1::after {
+        bottom: -25px;
+    }
+    
+    .banner_text .btn {
+        margin-top: 50px;
+    }
+
+    .banner_text .btn a {
+        padding: 5px 10px;
+        border: 3px solid #fff;
+    }
+}
+
+@media(min-width:768px) and (max-width:991.99px){
+     /* Banner Part Start Here */
+     .navbar {
+        padding: 10px 0;
+    }
+    .banner_text .btn a {
+        font-size: 20px;
+    }
+    .banner_text h2 {
+        font-size: 50px;
+        margin-bottom: 10px;
+    }
+    .icon i {
+        margin-bottom: 7px;
+    }
+    .banner_text_cont {
+        padding-top: 0;
+    }
+
+    .banner_text h1 {
+        font-size: 70px;
+    }
+
+    .banner_text h1::after {
+        bottom: -25px;
+    }
+    
+    .banner_text .btn {
+        margin-top: 50px;
+    }
+
+    .banner_text .btn a {
+        padding: 5px 10px;
+        border: 3px solid #fff;
+    }
+    .img_work {
+        padding: 60px 0 0 0;
+    }
+    .tit {
+        scale: 1;
+    }
+
+    /* Banner Part End Here */
+    /* Story Part Start Here */
+    #story {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    .heading h3 {
+        font-size: 25px;
+        margin-bottom: 12px;
+    }
+    .navbar-toggler .btn{
+        padding: 0 0;
+    }
+
+    .heading h2 {
+        font-size: 25px;
+        margin-bottom: 55px;
+    }
+
+    .heading h2::after {
+        bottom: -30px;
+        width: 45px;
+    }
+
+    .story_img {
+        margin-top: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .p-90 {
+        padding: 50px 0 0 0;
+        border-left: none;
+    }
+    
+
+    .br {
+        border-right: none;
+    }
+    .f_head{
+        margin-top: 30px;
+    }
+    /* Story Part End Here */
+
+    /* Track Part Start Here */
+    #track {
+        padding-bottom: 60px;
+    }
+
+    #service {
+        padding: 60px 0 60px 0;
+    }
+
+    .icon_text {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .mt-1 {
+        margin-top: 0;
+    }
+
+    .serv_gap {
+        margin-top: 10px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        display: none;
+    }
+    
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding-left: 0px;
+        padding-top: 15px;
+        padding-left: 40px;
+    }
+
+    .navbar-nav {
+        margin-bottom: 10px;
+    }
+
+    .nav-item a {
+        color: #000;
+    }
+    #team {
+        padding: 60px 0;
+    }
+    .team_text{
+        margin-top: 20px;
+    }
+    .team_container{
+        margin-top: 40px;
+    }
+    .btn-primary {
+        color: #fff;
+        background-color: transparent;
+        border-color: transparent;
+    }
+
+    .btn-check:focus+.btn-primary,
+    .btn-primary:focus {
+        color: #fff;
+        background-color: transparent;
+        border-color: transparent;
+        box-shadow: none;
+    }
+
+    .btn-primary:hover {
+        color: #fff;
+        background-color: transparent;
+        border-color: transparent;
+    }
+    
+    
+    /* Track Part End Here */
+
+    /* Comment Part Start*/
+    
+    .com_part_icon {
+        scale: 0.7;
+    }
+    .com_part_text p {
+        font-size: 16px;
+    }
+    .com_part_text span::after {
+        width: 30px;
+        left: -40px;
+        height: 3px;
+    }
+    .com_part_text span {
+        margin-left: 40px; 
+        font-size: 20px;
+    }
+    .foot_form form .box {
+        width: 100%;
+    }
+    .foot_form form button {
+        width: 100%;
+        margin-top: 11px;
+        margin-bottom: 50px;
+        
+    }
+    .com_part_text p {
+        line-height: 28px;
+        margin-top: 24px;
+    }
+    .insta_cont{
+        margin-top: 40px;
+    }
+    .img_insta_cont {
+        margin-top: 15px;
+    }
+    /* Comment Part End*/
+
+    /* Footer Part Start */
+    .f_follo {
+        margin-top: 20px;
+        padding-bottom: 10px;
+    }
+    .foot_l .p a {
+        margin-left: 9px;
+    }
+    form {
+        margin-top: 30px;
+    }
+    #footer input {
+        width: 60%;
+    }
+    #footer button {
+        width: 40%;
+    }
+    .f_text h5 {
+        font-size: 14px;
+    }
+    .f_text p {
+        font-size: 14px;
+    }
+}
+
+
+@media(min-width:576px) and (max-width:767px){
+    
+    /* Banner Part Start Here */
+    .navbar {
+        padding: 10px 0;
+    }
+    .banner_text .btn a {
+        font-size: 20px;
+    }
+    .banner_text h2 {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+
+    .banner_text_cont {
+        padding-top: 0;
+    }
+
+    .banner_text h1 {
+        font-size: 40px;
+    }
+
+    .banner_text h1::after {
+        display: none;
+    }
+    
+    .banner_text .btn {
+        margin-top: 15px;
+    }
+
+    .banner_text .btn a {
+        padding: 5px 10px;
+        border: 3px solid #fff;
+    }
+
+    .tit {
+        scale: 1;
+    }
+
+    /* Banner Part End Here */
+    /* Story Part Start Here */
+    #story {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    .heading h3 {
+        font-size: 25px;
+        margin-bottom: 12px;
+    }
+    .navbar-toggler .btn{
+        padding: 0 0;
+    }
+
+    .heading h2 {
+        font-size: 25px;
+        margin-bottom: 55px;
+    }
+
+    .heading h2::after {
+        bottom: -30px;
+        width: 45px;
+    }
+
+    .story_img {
+        margin-top: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .p-90 {
+        padding: 50px 0 0 0;
+        border-left: none;
+    }
+    
+
+    .br {
+        border-right: none;
+    }
+    .f_head{
+        margin-top: 30px;
+    }
+    /* Story Part End Here */
+
+    /* Track Part Start Here */
+    #track {
+        padding-bottom: 60px;
+    }
+
+    #service {
+        padding: 60px 0 40px 0;
+    }
+
+    .icon_text {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .mt-1 {
+        margin-top: 0;
+    }
+
+    .serv_gap {
+        margin-top: 0;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        display: none;
+    }
+    
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding-left: 0px;
+        padding-top: 15px;
+        padding-left: 40px;
+    }
+
+    .navbar-nav {
+        margin-bottom: 10px;
+    }
+
+    .nav-item a {
+        color: #000;
+    }
+    #team {
+        padding: 60px 0;
+    }
+    .btn-primary {
+        color: #fff;
+        background-color: transparent;
+        border-color: transparent;
+    }
+
+    .btn-check:focus+.btn-primary,
+    .btn-primary:focus {
+        color: #fff;
+        background-color: transparent;
+        border-color: transparent;
+        box-shadow: none;
+    }
+
+    .btn-primary:hover {
+        color: #fff;
+        background-color: transparent;
+        border-color: transparent;
+    }
+    
+    
+    /* Track Part End Here */
+
+    /* Comment Part Start*/
+    .com_icon i {
+        display: none;
+    }
+    .com_part_icon {
+        scale: 0.6;
+    }
+    
+    .com_part_text p {
+        font-size: 14px;
+        text-align: center;
+    }
+    .com_part_text span::after {
+        width: 20px;
+        left: 110%;
+        height: 1px;
+    }
+    .com_part_text span {
+        margin-left: 20px; 
+        font-size: 16px;
+    }
+    .foot_form form .box {
+        width: 100%;
+    }
+    .foot_form form button {
+        width: 100%;
+        margin-top: 11px;
+        margin-bottom: 50px;
+        
+    }
+    .insta_cont{
+        margin-top: 40px;
+    }
+    .img_insta_cont {
+        margin-top: 15px;
+    }
+    /* Comment Part End*/
+
+    /* Footer Part Start */
+    .f_follo {
+        margin-top: 20px;
+        padding-bottom: 10px;
+    }
+    .foot_l .p a {
+        margin-left: 9px;
+    }
+    form {
+        margin-top: 30px;
+    }
+    #footer input {
+        width: 100%;
+    }
+    #footer button {
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+}
+@media(max-width:575.99px) {
+
+    /* Banner Part Start Here */
+    .navbar {
+        padding: 10px 0;
+    }
+
+    .banner_text h2 {
+        font-size: 18px;
+    }
+
+    .banner_text_cont {
+        padding-top: 0;
+    }
+
+    .banner_text h1 {
+        font-size: 25px;
+    }
+
+    .banner_text h1::after {
+        display: none;
+    }
+
+    .banner_text .btn {
+        margin-top: 6px;
+    }
+
+    .banner_text .btn a {
+        padding: 5px 10px;
+        border: 1px solid #fff;
+    }
+
+    .tit {
+        scale: 0.9;
+    }
+
+    /* Banner Part End Here */
+    /* Story Part Start Here */
+    #story {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    .heading h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .heading h2 {
+        font-size: 25px;
+        margin-bottom: 55px;
+    }
+
+    .heading h2::after {
+        bottom: -30px;
+        width: 45px;
+    }
+
+    .story_img {
+        margin-top: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .p-90 {
+        padding: 50px 0 0 0;
+        border-left: none;
+    }
+    
+
+    .br {
+        border-right: none;
+    }
+
+    /* Story Part End Here */
+    /* Track Part Start Here */
+    #track {
+        padding-bottom: 60px;
+    }
+
+    #service {
+        padding: 60px 0 60px 0;
+    }
+
+    .icon_text {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .mt-1 {
+        margin-top: 0;
+    }
+
+    .serv_gap {
+        margin-top: 0;
+    }
+    .f_head h3 {
+        margin-top: 40px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding-left: 0px;
+        padding-top: 15px;
+        padding-left: 40px;
+    }
+
+    .navbar-nav {
+        margin-bottom: 10px;
+    }
+
+    .nav-item a {
+        color: #000;
+    }
+
+    .btn-primary {
+        color: #fff;
+        background-color: transparent;
+        border-color: transparent;
+    }
+
+    .btn-check:focus+.btn-primary,
+    .btn-primary:focus {
+        color: #fff;
+        background-color: transparent;
+        border-color: transparent;
+        box-shadow: none;
+    }
+
+    .btn-primary:hover {
+        color: #fff;
+        background-color: transparent;
+        border-color: transparent;
+    }
+    
+
+    /* Track Part End Here */
+
+    /* Comment Part Start*/
+    .com_icon i {
+        display: none;
+    }
+    .com_part_icon {
+        scale: 0.6;
+        margin: 0 auto;
+    }
+    .com_part_text p {
+        font-size: 14px;
+        text-align: center;
+    }
+    .com_part_text span::after {
+        width: 20px;
+        left: 110%;
+        height: 1px;
+    }
+    .com_part_text span {
+        margin-left: 20px; 
+        font-size: 16px;
+    }
+    .foot_form form .box {
+        width: 100%;
+    }
+    .foot_form form button {
+        width: 100%;
+        margin-top: 11px;
+        margin-bottom: 50px;
+        
+    }
+    .insta_cont{
+        margin-top: 40px;
+    }
+    .img_insta_cont {
+        margin-top: 15px;
+    }
+    /* Comment Part End*/
+
+    /* Footer Part Start */
+    .f_follo {
+        margin-top: 20px;
+        padding-bottom: 10px;
+    }
+    .foot_l .p a {
+        margin-left: 9px;
+    }
+    form {
+        margin-top: 30px;
+    }
+    #footer input {
+        width: 100%;
+    }
+    #footer button {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .container{
+        overflow: hidden;
+    }
+    /* Footer Part End */
+    @media (min-width: 510px) and (max-width: 575.99px){
+        .icon_text p {
+            padding: 0 60px;
+        }
+    }
+}
